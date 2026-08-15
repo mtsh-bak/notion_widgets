@@ -615,8 +615,8 @@ const CONFIG = {
   herName: "Diyu",          // her name / nickname
   hisName: "Mitesh",           // your name / nickname
   startDate: "2026-07-03T00:00:00", // the date the counter starts from
-  hugPhoto: "hug.jpg",         // photo shown when "hug me" is pressed (put this file next to index.html)
-  kissPhoto: "kiss.jpg"        // photo shown when "kiss me" is pressed (put this file next to index.html)
+  hugPhoto: "hug.jpeg",         // photo shown when "hug me" is pressed (put this file next to index.html)
+  kissPhoto: "kiss.jpeg"        // photo shown when "kiss me" is pressed (put this file next to index.html)
 };
 
 const LETTER_TEXT = "My dearest {{HER}},\n\nI  don't  really  know  the  right  way  to  start  this,  so  I'll  just  say  it:  since  {{DATE}},  my  days  have  made  a  lot  more  sense.\n\nYou  have  this  quiet  way  of  turning  ordinary  moments,  a  text,  a  laugh,  a  random  Tuesday,  into  something  I  actually  look  forward  to.  I  don't  say  it  enough,  so  let  this  letter  say  it  for  me.\n\nThank  you  for  choosing  me,  for  staying  through  the  ordinary  days  and  the  hard  ones,  and  for  being  the  calmest,  warmest  part  of  my  life.\n\nI  don't  know  everything  that's  ahead  for  us. I  just  know  I  want  you  there  for  all  of  it,  the  big  days  and  the  boring  ones.\n\nYou  are,  quite  simply,  my  favorite  person.\n\nAlways  yours,\n{{HIM}}";
